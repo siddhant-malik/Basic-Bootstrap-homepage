@@ -13,5 +13,5 @@
 .card-image{
     width: 60%;
     object-fit: cover;
-   
+    background-position: center;
 }
